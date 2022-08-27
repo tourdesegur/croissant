@@ -1,3 +1,48 @@
 body {
   text-align: center;
+  background-color: #f1f1f1;
+}
+
+h1 {
+  margin: 60px auto 30px auto;
+  text-transform: uppercase;
+}
+
+p {
+  max-width: 600px;
+  margin: 0 auto 30px auto;
+  text-align: left;
+}
+
+a {
+  padding: 0 30px;
+}
+
+p.p-email {
+  text-align: center;
+  font-size: 24px;
+  background-color: #3cc0f9;
+  color: white;
+  padding: 10px 40px;
+  border-radius: 4px;
+  max-width: 400px;
+}
+
+a.email-link {
+  padding: 0;
+  color: white;
+}
+
+img {
+  max-width: 600px;
+  margin: 0 auto 30px auto;
+  border-radius: 4px;
+}
+
+.recipe {
+  background-color: #3cc0f9;
+  color: white;
+  padding: 10px 40px;
+  border-radius: 4px;
+  max-width: 400px;
 }
